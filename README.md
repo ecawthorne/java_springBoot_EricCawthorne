@@ -1,5 +1,5 @@
 # Part 3 of CSCI 3444 final demonstrating springBoot
-Example SpringBoot project showing;
+Example SpringBoot project showing:
 - Creates web pages and REST URLs
 - Uses spring security to protect app's web page and REST URLs
 - Uses TomCat with Https SSL with a self signed certificate
